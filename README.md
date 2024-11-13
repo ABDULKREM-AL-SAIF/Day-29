@@ -38,10 +38,10 @@ This application provides an interactive tool for predicting car prices based on
    ```bash
    pip install streamlit requests
    ```
-3. Run the app
+3. Run the app:
   ```bash
   streamlit run app.py
-   ```
+  ```
 ## Requirements
 
 - **Streamlit**: For the front-end interface.
