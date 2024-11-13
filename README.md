@@ -42,9 +42,6 @@ This application provides an interactive tool for predicting car prices based on
   ```bash
   streamlit run app.py
    ```
-
-Just copy and paste this into your README file, and it will display similarly. Let me know if you need further help!
-
 ## Requirements
 
 - **Streamlit**: For the front-end interface.
